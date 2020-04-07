@@ -1,4 +1,4 @@
-n1,n2,n3=input("Enter three numbers in one line: ").split()  #input three numbers one after another in one line then press enter,this is dome by using split function( split() )
+n1,n2,n3=input("Enter three numbers in one line: ").split()  #input three numbers one after another in one line then press enter,this is done by using split function( split() )
 temp=n1
 if(temp>n2):
  temp=n2
